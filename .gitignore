@@ -428,5 +428,9 @@ FodyWeavers.xsd
 *.msm
 *.msp
 
+*.sln
+*.vcxproj
+*.filters
 *.dll
 *.lib
+*.ttf
